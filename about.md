@@ -11,4 +11,4 @@ I don't use Facebook and neither should you.
 
 ### Contact me
 
-[sharylisme at gmail dot com](mailto:sharylisme@gmail.com)
+[sharyl at sharyl dot me](mailto:sharyl@sharyl.me)
