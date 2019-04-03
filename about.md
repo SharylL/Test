@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-CPA, computer wrangler, code author
+CPA, computer wrangler, code wrestler, bug hunter
 ### More Information
 
 I don't use Facebook and neither should you.
